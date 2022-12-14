@@ -2,7 +2,7 @@
 <h3 align="center">Information Tenchnology Undergraduate at SLIIT</h3>
 <hr>
 
-- 🌱 I’m currently learning python and django
+- 🌱 I’m currently working on a MERN-Stack project.
 - 👯 I’m looking to collaborate on web development related projects.
 - 📫 How to reach me: anusaraweerasooriya@gmail.com
 
