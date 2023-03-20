@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working on a MERN-Stack project.
 - 👯 I’m looking to collaborate on web development related projects.
-- 📫 How to reach me: anusaraweerasooriya@gmail.com
+- 📫 How to reach me => anusaraweerasooriya@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anusaraweerasooriya&label=Profile%20views&color=0e75b6&style=flat" alt="anusaraweerasooriya" /> </p>
 
