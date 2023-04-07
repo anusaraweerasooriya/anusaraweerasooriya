@@ -1,5 +1,5 @@
 
-![Header](https://github.com/anusaraweerasooriya/anusaraweerasooriya/blob/main/bannergif2.gif?align="center")
+![Header](https://github.com/anusaraweerasooriya/anusaraweerasooriya/blob/main/bannergif1%20(1).gif)
 
 
 <h2 align="center">Hello there 👋, I'm Anusara Weerasooriya</h2>
