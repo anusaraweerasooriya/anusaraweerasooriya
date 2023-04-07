@@ -1,5 +1,6 @@
-
+<div align="center">
 ![Header](https://github.com/anusaraweerasooriya/anusaraweerasooriya/blob/main/bannergif2.gif)
+ </div>
 
 <h2 align="center">Hello there 👋, I'm Anusara Weerasooriya</h2>
 <h3 align="center">Information Technology Undergraduate at SLIIT</h3>
