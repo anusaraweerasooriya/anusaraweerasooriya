@@ -2,11 +2,10 @@
 ![Header](https://github.com/anusaraweerasooriya/anusaraweerasooriya/blob/main/bannergif1%20(1).gif)
 
 
-<h2 align="center">Hello there 👋, I'm Anusara Weerasooriya</h2>
 <h3 align="center">Information Technology Undergraduate at SLIIT</h3>
 <hr>
 
-- 🌱 I’m currently working on a MERN-Stack project.
+- 🌱 I’m currently learning Microfrontend architecture.
 - 👯 I’m looking to collaborate on web development related projects.
 - 📫 How to reach me => anusaraweerasooriya@gmail.com
 
