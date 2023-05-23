@@ -17,4 +17,4 @@
 <p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anusaraweerasooriya&show_icons=true&theme=react&hide_border=true&locale=en&layout=compact&exclude_repo=Cosmetics-Manufacturing-and-Sales-Management-System--ITP-Project&count-private=true" alt="anusaraweerasooriya" /></p><br><br><br><br><br><br><br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anusaraweerasooriya&show_icons=true&theme=react&hide_border=true&locale=en" alt="anusaraweerasooriya" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anusaraweerasooriya&" alt="anusaraweerasooriya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anusaraweerasooriya&&theme=react&hide_border=true" alt="anusaraweerasooriya" /></p>
