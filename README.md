@@ -5,7 +5,7 @@
 <h3 align="center">Information Technology Undergraduate at SLIIT</h3>
 <hr>
 
-- 🌱 I’m currently learning Microfrontend architecture.
+- 🌱 I’m currently learning Microservices architecture.
 - 👯 I’m looking to collaborate on web development related projects.
 - 📫 How to reach me => anusaraweerasooriya@gmail.com
 
